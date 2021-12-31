@@ -511,10 +511,10 @@ section {
 .portfolio-details {
   padding-top: 40px;
 }
-.portfolio-details-2 .portfolio-details-slider img {
+.portfolio-details .portfolio-details-slider img {
   width: 100%;
 }
-.portfolio-details-3 .portfolio-details-slider .swiper-pagination {
+.portfolio-details-2 .portfolio-details-slider .swiper-pagination {
   margin-top: 20px;
   position: relative;
 }
